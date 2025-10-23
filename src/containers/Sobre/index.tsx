@@ -7,9 +7,10 @@ const Sobre = () => (
       Sobre
     </Texto>
     <Texto>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores sint,
-      nihil odit explicabo officiis iste vero. Temporibus recusandae obcaecati,
-      eos ipsa enim reiciendis at? Vero quidem beatae repellat eligendi omnis?
+      Sou desenvolvedor Full Stack em formação pela EBAC. Tenho trabalhado em
+      projetos que envolvem HTML, CSS, JavaScript e React, além de estar me
+      aprofundando em Python e SQL. Gosto de aprender coisas novas, resolver
+      problemas de forma criativa e transformar ideias em projetos reais.
     </Texto>
     <Github>
       <img src="https://github-readme-stats.vercel.app/api?username=ceb0lo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
