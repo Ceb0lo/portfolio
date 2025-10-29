@@ -12,7 +12,9 @@ const Sidebar = () => (
       <Texto fontSize={16} color="cinza">
         Ceb0lo
       </Texto>
-      <Descricao fontSize={12}>front-end</Descricao>
+      <Descricao fontSize={12}>
+        Desenvolvedor Full Stack | Front End | Back End
+      </Descricao>
       <IconLink>
         <a href="https://github.com/Ceb0lo" target="_blank" rel="noreferrer">
           <img
@@ -21,7 +23,7 @@ const Sidebar = () => (
           />
         </a>
         <a
-          href="https://www.linkedin.com/in/erick-lemos-b720b7235"
+          href="https://www.linkedin.com/in/ericklemosdasilva"
           target="_blank"
           rel="noreferrer"
         >
