@@ -13,8 +13,6 @@ const Sobre = () => (
       problemas de forma criativa e transformar ideias em projetos reais.
     </Texto>
     <Github>
-      <img src="https://github-readme-stats.vercel.app/api?username=ceb0lo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceb0lo&layout=compact&langs_count=7&theme=dracula" />
     </Github>
   </section>
 )
