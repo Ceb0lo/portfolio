@@ -6,7 +6,7 @@ const Sobre = () => (
     <Texto fontSize={18} fontWeight={true}>
       Olá, eu sou Erick Lemos
     </Texto>
-    <Texto marginbottom={2}>
+    <Texto>
       🎓 Desenvolvedor Full Stack Python formado pela EBAC – Escola Britânica de
       Artes Criativas e Tecnologia.
     </Texto>

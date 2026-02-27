@@ -3,7 +3,12 @@ import styled from 'styled-components'
 export const Card = styled.div`
   border: 1px solid #c1c1c1;
   padding: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
 `
+
 export const LinkBotao = styled.a`
   color: #fff;
   font-size: 14px;
@@ -11,4 +16,5 @@ export const LinkBotao = styled.a`
   text-decoration: none;
   padding: 8px;
   display: inline-block;
+  margin-top: auto;
 `
